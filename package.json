@@ -1,0 +1,19 @@
+{
+  "name": "vjson",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/vjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrek-r/vjson.git"
+  },
+  "author": "Piotr Rybałtowski <piotrek@owl-labs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrek-r/vjson/issues"
+  },
+  "homepage": "https://github.com/piotrek-r/vjson#readme"
+}
